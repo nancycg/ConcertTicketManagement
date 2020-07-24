@@ -20,5 +20,8 @@ ____________________________
 	Add Junit4 to classpath to run the test cases
 
 
-
 ![](https://github.com/nancycg/ConcertTicketManagement/blob/master/resources/AddJunitToClasspath.png)
+
+# Output
+
+![](https://github.com/nancycg/ConcertTicketManagement/blob/master/resources/ExpectedOutput.png)
