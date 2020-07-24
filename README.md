@@ -12,3 +12,13 @@ ____________________________
 ![](https://github.com/nancycg/ConcertTicketManagement/blob/master/images/c6.png)
 ![](https://github.com/nancycg/ConcertTicketManagement/blob/master/images/c7.png)
 ![](https://github.com/nancycg/ConcertTicketManagement/blob/master/images/c8.png)
+
+
+
+# Troubleshoot
+
+	Add Junit4 to classpath to run the test cases
+
+
+
+![](https://github.com/nancycg/ConcertTicketManagement/blob/master/resources/AddJunitToClasspath.png)
